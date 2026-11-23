@@ -5,7 +5,7 @@
 **Asignatura:** Programación Avanzada de Videojuegos
 **Docente:** Ing. Jheyson Gaona, Mtr.
 **Evaluación:** Interciclo – Ciclo 5, Paralelo A
-**Estudiante:** _[Escribe aquí tu nombre completo]_
+**Estudiante:** Sebastian Saquicela Bravo
 **Motor:** Unity 6000.6.2f1 (URP) – C#
 
 ---
